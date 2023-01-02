@@ -135,7 +135,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <polygon width="0.15" layer="21">
 <vertex x="0.3947" y="-0.9528" curve="9.498218"/>
 <vertex x="0.5465" y="-0.8746"/>
-<vertex x="0.9235" y="-1.182"/>
+<vertex="0.9235" y="-1.182"/>
 <vertex x="1.182" y="-0.9235"/>
 <vertex x="0.8746" y="-0.5465" curve="19.000773"/>
 <vertex x="1.0049" y="-0.232"/>
